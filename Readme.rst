@@ -33,8 +33,3 @@ Ohjelmoinnilliset asiat:
 
 Yhdistellään jo opittuja rakenteita toimiviksi kokonaisuuksiksi.
 Tehdään mm. askelmittari, kertolaskukone, huijaava noppa ja herkkä tasapainolauta
-
-4. kokonaisuus
-
-Uutena asiana otetaan käyttöön Micro:bitin radio ja yhdistetään se vanhoihin koodeihin.
-Toinen uusi asia on lista ``array``. Tehdään myös omia yksinkertaisia pelejä.
