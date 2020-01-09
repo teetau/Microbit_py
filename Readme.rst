@@ -6,7 +6,7 @@ Tuntisetit
 
 **Micropython** ohjelmat ovat käytännössä samoja kuin **hex**-koodit. Pieniä toiminnallisia eroja saattaa olla. 
 
-Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3-4 yhdistellään ja sovelletaan jo opittua. 
+Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3:ssa yhdistellään ja sovelletaan jo opittua. 
 Voit ladata **.py**-tiedostot itsellesi kerralla talteen. Käytä niitä tarkistus- tai neuvontavaiheessa. 
 Älä jaa niitä oppilaille.
 
