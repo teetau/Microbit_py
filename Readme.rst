@@ -1,7 +1,7 @@
 Microbit_py
 ===========
 
-turun kaupungin ohjelmoinnin opetuksen projekti kevään 2020 aikana.
+Turun kaupungin ohjelmoinnin opetuksen projekti kevään 2020 aikana.
 
 Micropython tuntisetit
 ----------------------
