@@ -41,6 +41,9 @@ Tiedostojen lataus
 
 *Vihreä nappi*: **Clone or download** lataa koko hakemiston. Tee etukäteen kansio, jonne lataat ZIP-tiedostona ja pura tiedosto sinne. Näin saat kaikki tiedostot kerralla itsellesi.
 
+Muuta
+-----
+
 **HUOM !** Yksittäisten tiedostojen lataus on vaikeampaa.
 
 **Micro:bitin ohjelmiston päivittäminen** https://microbit.org/fi/guide/firmware/
