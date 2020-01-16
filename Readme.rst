@@ -44,3 +44,5 @@ Tiedostojen lataus
 **HUOM !** Yksittäisten tiedostojen lataus on vaikeampaa.
 
 **Micro:bitin ohjelmiston päivittäminen** https://microbit.org/fi/guide/firmware/
+
+**Micropython** tutoriaali, jossa hyvät ohjeet (engl.) https://microbit-micropython.readthedocs.io/en/latest/
